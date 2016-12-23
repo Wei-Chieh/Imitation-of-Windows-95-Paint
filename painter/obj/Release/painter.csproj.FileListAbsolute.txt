@@ -1,0 +1,9 @@
+C:\Users\b0150\Dropbox\NM\painter\painter\bin\Release\painter.exe.config
+C:\Users\b0150\Dropbox\NM\painter\painter\bin\Release\painter.exe
+C:\Users\b0150\Dropbox\NM\painter\painter\bin\Release\painter.pdb
+C:\Users\b0150\Dropbox\NM\painter\painter\obj\Release\painter.csprojResolveAssemblyReference.cache
+C:\Users\b0150\Dropbox\NM\painter\painter\obj\Release\painter.小畫家.resources
+C:\Users\b0150\Dropbox\NM\painter\painter\obj\Release\painter.Properties.Resources.resources
+C:\Users\b0150\Dropbox\NM\painter\painter\obj\Release\painter.csproj.GenerateResource.Cache
+C:\Users\b0150\Dropbox\NM\painter\painter\obj\Release\painter.exe
+C:\Users\b0150\Dropbox\NM\painter\painter\obj\Release\painter.pdb

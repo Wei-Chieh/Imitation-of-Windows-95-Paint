@@ -1,0 +1,12 @@
+c:\users\維傑\documents\visual studio 2012\Projects\painter\painter\bin\Debug\painter.exe.config
+c:\users\維傑\documents\visual studio 2012\Projects\painter\painter\bin\Debug\painter.exe
+c:\users\維傑\documents\visual studio 2012\Projects\painter\painter\bin\Debug\painter.pdb
+c:\users\維傑\documents\visual studio 2012\Projects\painter\painter\obj\Debug\painter.csprojResolveAssemblyReference.cache
+c:\users\維傑\documents\visual studio 2012\Projects\painter\painter\obj\Debug\painter.Properties.Resources.resources
+c:\users\維傑\documents\visual studio 2012\Projects\painter\painter\obj\Debug\painter.csproj.GenerateResource.Cache
+c:\users\維傑\documents\visual studio 2012\Projects\painter\painter\obj\Debug\painter.exe
+c:\users\維傑\documents\visual studio 2012\Projects\painter\painter\obj\Debug\painter.pdb
+c:\users\維傑\documents\visual studio 2012\Projects\painter\painter\obj\Debug\painter.小畫家.resources
+C:\Users\維傑\Dropbox\Projects\painter\painter\bin\Debug\painter.exe.config
+C:\Users\維傑\Dropbox\Projects\painter\painter\obj\Debug\painter.exe
+C:\Users\維傑\Dropbox\Projects\painter\painter\obj\Debug\painter.pdb
